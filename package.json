@@ -41,8 +41,7 @@
 		],
 		"nohoist": [
 			"**/@types/react-native",
-			"**/@types/react-native/**",
-			"**/@aws-sdk/client-pinpoint"
+			"**/@types/react-native/**"
 		]
 	},
 	"repository": {
